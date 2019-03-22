@@ -10,5 +10,5 @@ Simply pass the `table` to the function:
 tableTo2dArray(document.querySelector('#input');
 ```
 
-See [test.html](test file) for specific implementation.
+See [test file](test.html) for specific implementation.
 
